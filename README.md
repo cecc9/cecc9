@@ -35,7 +35,7 @@
   <code> <img height="50" src="https://api.iconify.design/logos:nodejs.svg"> </code>
   <code> <img height="50" src="https://api.iconify.design/logos:svelte-icon.svg"> </code>
   <code> <img height="50" src="https://api.iconify.design/logos:postgresql.svg"> </code>
-  <code> <img height="50" src="https://api.iconify.design/logos:supabase-icon.svg"> </code>
+  <!-- <code> <img height="50" src="https://api.iconify.design/logos:supabase-icon.svg"> </code> -->
   <br/>
   <p align="center">
   <code> <img height="50" src="https://api.iconify.design/logos:git-icon.svg"> </code>
