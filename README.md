@@ -2,8 +2,8 @@
 <h3 align="center">Desarrollador Frontend Jr. </h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://api.iconify.design/skill-icons:github-light.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://api.iconify.design/skill-icons:linkedin.svg" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="#" target="blank"><img align="center" src="https://api.iconify.design/twemoji:check-box-with-check.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cristian-choque/" target="blank"><img align="center" src="https://api.iconify.design/skill-icons:linkedin.svg" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/cristian-choque/" target="blank"><img align="center" src="https://api.iconify.design/twemoji:check-box-with-check.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
 </p>
 </p>
 
