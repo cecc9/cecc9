@@ -23,8 +23,7 @@
 <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tecnologias y Herramientas de desarrollo...***
-<p align="left">
-  
+<p align="center">  
   <code><img height="50" src="https://api.iconify.design/devicon:html5.svg"></code>
   <code> <img height="50" src="https://api.iconify.design/devicon:css3.svg"> </code>
   <code> <img height="50" src="https://api.iconify.design/vscode-icons:file-type-js-official.svg"> </code>
@@ -36,6 +35,8 @@
   <code> <img height="50" src="https://api.iconify.design/logos:svelte-icon.svg"> </code>
   <code> <img height="50" src="https://api.iconify.design/logos:postgresql.svg"> </code>
   <!-- <code> <img height="50" src="https://api.iconify.design/logos:supabase-icon.svg"> </code> -->
+  </p>
+  
   <br/>
   <p align="center">
   <code> <img height="50" src="https://api.iconify.design/logos:git-icon.svg"> </code>
