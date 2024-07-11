@@ -1,5 +1,5 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Cristian Choque </h1>
-<h3 align="center">Desarrollador Frontend Jr. </h3>
+<h3 align="center">Desarrollador Frontend </h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://api.iconify.design/skill-icons:github-light.svg" alt="hack_ovindu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/cristian-choque/" target="blank"><img align="center" src="https://api.iconify.design/skill-icons:linkedin.svg" alt="lin_ovindu" height="30" width="40" /></a>  
