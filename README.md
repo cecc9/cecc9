@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>
-    Hola, Soy Cristian Choque, un Apasionado <b>desarrollador Frontend Jr. </b> 
+    Hola, Soy Cristian Choque, un Apasionado <b>desarrollador Frontend </b> 
     <br>
     <b>con un enfoque creativo y soluciones técnicas innovadoras.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Implemento 
     <b>librerías, frameworks, <br> ademas de metodologías y buenas practicas web actualizadas, para mejorar continuamente mis habilidades</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,
